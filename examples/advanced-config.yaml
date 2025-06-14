@@ -1,0 +1,11 @@
+- type: custom:seven-segment-card
+  entity: sensor.3phase_clamp_meter_relay_energy
+  title: "Power Meter"
+  color: "#00cc00"
+  inactive_color: "#122212"
+  unit: "kWh"
+  decimals: 1
+  digits: 7
+  size: 60
+  tap_action:
+    action: more-info
