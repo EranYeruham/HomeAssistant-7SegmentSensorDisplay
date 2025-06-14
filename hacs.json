@@ -1,0 +1,10 @@
+{
+  "name": "7-Segment Display Card",
+  "content_in_root": true,
+  "filename": "sevenSegmentCard.js",
+  "country": ["IL"],
+  "domains": ["sensor"],
+  "homeassistant": "2025.06.1",
+  "render_readme": true,
+  "iot_class": "Local Polling"
+}
