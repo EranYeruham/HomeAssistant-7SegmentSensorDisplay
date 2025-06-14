@@ -1,3 +1,9 @@
+console.info(
+  `%c  7-SEGMENT-CARD \n%c  Version 1.0.0     `,
+  'color: orange; font-weight: bold; background: black',
+  'color: white; font-weight: bold; background: dimgray'
+);
+
 class SevenSegmentCard extends HTMLElement {
   constructor() {
     super();
