@@ -1,0 +1,11 @@
+type: custom:seven-segment-card
+entity: sensor.daily_energy_consumption
+title: Daily Consumption
+color: "#a02cb0"
+inactive_color: "#122212"
+unit: Kwh
+decimals: 2
+size: 20
+digits: 3
+tap_action:
+  action: more-info
